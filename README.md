@@ -3,7 +3,7 @@ xiaowangneu/xiaowangneu is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-- 🏢 
+- 🏢  I’m currently working on SLAM.
 - ⚡ 本人研究方向为SLAM、多传感器融合等.
 - ⚙️ 
 - 🌍 xxx
